@@ -1,0 +1,38 @@
+{
+  "header": {
+    "home": "Home",
+    "problems": "Problems",
+    "systems": "Engines",
+    "journey": "How We Work",
+    "tools": "Free Tools",
+    "pricing": "Pricing",
+    "cta": "Book Free Consultation"
+  },
+  "hero": {
+    "eyebrow": "+200 stores growing with us now",
+    "title1": "Double your store's sales",
+    "title2": "in just",
+    "title3": "days",
+    "title4": "",
+    "desc1": "We build a complete growth system for your store using real data and market-proven strategies — not just ads.",
+    "desc2": "We help you outperform your competitors through integrated marketing plans that guarantee sustainable growth and tangible results.",
+    "placeholder": "Enter your website URL (e.g., example.com)",
+    "errorUrl": "Please enter a valid website URL (e.g., example.com) before analyzing.",
+    "analyzeBtn": "Analyze and Grow Your Store",
+    "startBtn": "Start for Free Now",
+    "howItWorksBtn": "See How the System Works"
+  },
+  "footer": {
+    "desc": "— Growth System for E-commerce",
+    "links": {
+      "problems": "Problems",
+      "systems": "Engines",
+      "journey": "How We Work",
+      "pricing": "Pricing",
+      "tools": "Tools",
+      "compare": "Compare"
+    },
+    "copy": " 2026 FastGrowth SA. All rights reserved.",
+    "subCopy": " Riyadh, Saudi Arabia |  Your data is protected and never shared"
+  }
+}
