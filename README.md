@@ -1,28 +1,28 @@
-# FastGrowth SaaS Startup 🚀
+# FastGrowth SaaS Startup
 
-**FastGrowth** is an innovative AI-powered SaaS platform designed to accelerate the growth of e-commerce businesses and startups. It provides a comprehensive suite of intelligent tools that automate marketing, customer service, and store optimization.
+FastGrowth is an innovative AI-powered SaaS platform designed to accelerate the growth of e-commerce businesses and startups. It provides a comprehensive suite of intelligent tools that automate marketing, customer service, and store optimization.
 
-## 🌟 Features & AI Capabilities
+## Features & AI Capabilities
 
 FastGrowth leverages cutting-edge Artificial Intelligence (using APIs like Groq, Gemini, and Claude) to deliver the following services:
 
-- **🤖 Smart Chatbot Maker:** Train a custom AI customer service agent for your store in seconds. It understands your store policies, tone of voice, and products to assist customers intelligently.
-- **📈 Meta Ads Generator:** Generate highly converting ad copies for Facebook, Instagram, and TikTok using psychological marketing strategies.
-- **🔍 Store Audit & SEO Analyzer:** Deep AI analysis of your e-commerce store's UI/UX and SEO with actionable insights to increase conversion rates.
-- **🎨 AI Image Generation:** Create professional product photography and lifestyle images instantly.
-- **💡 Content Ideas Generator:** Generate viral content ideas tailored to your target audience.
-- **✍️ SEO Product Descriptions:** Write SEO-optimized product descriptions that rank higher on search engines.
-- **💰 Competitor Price Analyzer:** Analyze competitor pricing strategies to position your products effectively.
-- **🏪 Store Designer:** Generate professional UI/UX store layouts using AI.
+- **Smart Chatbot Maker:** Train a custom AI customer service agent for your store in seconds. It understands your store policies, tone of voice, and products to assist customers intelligently.
+- **Meta Ads Generator:** Generate highly converting ad copies for Facebook, Instagram, and TikTok using psychological marketing strategies.
+- **Store Audit & SEO Analyzer:** Deep AI analysis of your e-commerce store's UI/UX and SEO with actionable insights to increase conversion rates.
+- **AI Image Generation:** Create professional product photography and lifestyle images instantly.
+- **Content Ideas Generator:** Generate viral content ideas tailored to your target audience.
+- **SEO Product Descriptions:** Write SEO-optimized product descriptions that rank higher on search engines.
+- **Competitor Price Analyzer:** Analyze competitor pricing strategies to position your products effectively.
+- **Store Designer:** Generate professional UI/UX store layouts using AI.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, Vite, Tailwind CSS
 - **Backend/Database:** Supabase (PostgreSQL)
 - **AI Integrations:** Groq (Llama 3), Google Gemini, Anthropic Claude, Stable Horde API
 - **Deployment:** Vercel
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
@@ -57,5 +57,5 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 npm run dev
 ```
 
-## 🔒 Security
+## Security
 All sensitive API keys and database credentials are securely loaded via environment variables and are NOT committed to the repository.
